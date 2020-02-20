@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+   <string name="question_text">True or False</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="next_button">Next</string>
+    <string name="question_1">Pikachu ground??</string>
+    <string name="question_2">Raichu->Pikachu??</string>
+    <string name="question_3">Metang psychic??</string>
+    <string name="question_4">Is adithya Sexy</string>
+    <string name="question_5">Is the hulk ruffalo?</string>
+    <string name="question_6">Is 2+2 4></string>
+    <string name="question_7">Lol??</string>
+    <string name="previous_button">Previous</string>
+
+</resources>
