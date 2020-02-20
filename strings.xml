@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+   <string name="question_text">True or False</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="next_button">Next</string>
+    <string name="question_1">There are 28 states in India?</string>
+    <string name="question_2">Tomato, a vegetable?</string>
+    <string name="question_3">Kotlin is a Web Development IDE?</string>
+    <string name="question_4">Android Studio Supports java?</string>
+    <string name="question_5">There are 10 seasons of Friends?</string>
+    <string name="question_6">TBBT is a series.</string>
+    <string name="question_7">Mozilla is an open source based foundation?</string>
+    <string name="previous_button">Previous</string>
+
+</resources>
